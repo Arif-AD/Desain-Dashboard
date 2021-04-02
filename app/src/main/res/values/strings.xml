@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">dashboard</string>
+    <string name="hello">Hello</string>
+    <string name="arif">Arif</string>
+    <string name="cari_disini">Cari disini ...</string>
+    <string name="buku">Buku</string>
+    <string name="catatan">Catatan</string>
+    <string name="riwayat">Riwayat</string>
+    <string name="unduhan">Unduhan</string>
+    <string name="terbaru">TERBARU</string>
+    <string name="isitext">Laskar Pelangi , Baca tentang kisah pertemanan yang sangat erat dan penuh dengan makna.</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="account">Account</string>
+    <string name="settings">Settings</string>
+</resources>
